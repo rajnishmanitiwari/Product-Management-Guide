@@ -1,11 +1,11 @@
-# Product-Management-Guide
+# Product-Management-Guide [![By Rajnish Mani Tiwari](https://awesome.re/badge.svg)](https://bit.ly/PM-Guide-Rajnish)
 A comprehensive guide and curated collection of resources to learn product management from scratch. This repository provides a step-by-step roadmap, advanced tools, courses, and insights into the day-to-day responsibilities of a product manager. 
 
-# Product Management Guide
-## By Rajnsh Mani Tiwari
+**By Rajnish Mani Tiwari**
+
 
 ### Step-by-step weekly roadmap and guidance
-### On how to learn Product Management and strategies in 6 weeks to be job-ready for product management in Big MNCs
+On how to learn Product Management and strategies in 6 weeks to be job-ready for product management in Big MNCs
 
 #### Week 1
 - Set your goals. What do you want to achieve by learning Product Management in 6 weeks? Do you want to be able to crack product management interviews at top tech companies? Do you want to be able to launch your product? Once you know your goals, you can create a learning plan that will help you achieve them.
@@ -111,39 +111,41 @@ A comprehensive guide and curated collection of resources to learn product manag
 - Difficulty adapting to change or working in a fast-paced environment
 
 #### Wearing Different Hats:
-Product Managers often need to be adaptable and wear different hats depending on the situation. They might be a negotiator with vendors, a data analyst poring over user metrics, or creative brainstorming ideas with designers.
+- Product Managers often need to be adaptable and wear different hats depending on the situation. They might be a negotiator with vendors, a data analyst poring over user metrics, or creative brainstorming ideas with designers.
 
 #### Prioritization and Trade-offs:
-A key skill is prioritizing features and functionalities, often with limited resources. This can involve making tough decisions and trade-offs to ensure the product remains focused and delivers the most value.
+- A key skill is prioritizing features and functionalities, often with limited resources. This can involve making tough decisions and trade-offs to ensure the product remains focused and delivers the most value.
 
 #### Metrics and A/B Testing:
-Data is king for Product Managers. They leverage analytics to track product performance, measure user engagement, and conduct A/B testing to optimize features and identify areas for improvement.
+- Data is king for Product Managers. They leverage analytics to track product performance, measure user engagement, and conduct A/B testing to optimize features and identify areas for improvement.
 
 #### Product Lifecycle Management:
-Product Managers shepherd a product from ideation through launch, growth, and even decline. They need to understand the different stages of the product lifecycle and adapt their approach accordingly.
+- Product Managers shepherd a product from ideation through launch, growth, and even decline. They need to understand the different stages of the product lifecycle and adapt their approach accordingly.
 
 #### Negotiation and Communication:
-Product Managers need to effectively communicate the product vision and roadmap to a wide range of stakeholders, from technical teams to executives.
+- Product Managers need to effectively communicate the product vision and roadmap to a wide range of stakeholders, from technical teams to executives.
 
 #### Staying Ahead of the Curve:
-The tech landscape is constantly evolving, so Product Managers need to be curious and stay informed about industry trends, new technologies, and competitor activity.
+- The tech landscape is constantly evolving, so Product Managers need to be curious and stay informed about industry trends, new technologies, and competitor activity.
 
 #### Lifelong Learning:
-Being a Product Manager requires continuous learning. New tools, methodologies, and best practices emerge all the time, so staying up-to-date is crucial.
+- Being a Product Manager requires continuous learning. New tools, methodologies, and best practices emerge all the time, so staying up-to-date is crucial.
 
 #### Emotional Intelligence:
-Product Managers deal with people from various backgrounds and personalities. Emotional intelligence is key to building trust, resolving conflicts, and fostering a positive and collaborative work environment.
+- Product Managers deal with people from various backgrounds and personalities. Emotional intelligence is key to building trust, resolving conflicts, and fostering a positive and collaborative work environment.
 
 #### Metrics Beyond User Numbers:
-While user engagement and growth are important, successful Product Managers also consider metrics that align with the overall business goals. This might include revenue generated, customer retention, or cost reduction.
+- While user engagement and growth are important, successful Product Managers also consider metrics that align with the overall business goals. This might include revenue generated, customer retention, or cost reduction.
 
 #### The Product Champion:
-A Product Manager is the biggest advocate for their product. They are passionate about its success and take ownership of driving user adoption and achieving business objectives.
+- A Product Manager is the biggest advocate for their product. They are passionate about its success and take ownership of driving user adoption and achieving business objectives.
 
 ### Important Links
-- [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management): A curated list of product management advice for technical people.
-- [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager): A curated list of awesome resources for product managers to learn and grow.
-- [dend/awesome-product-management](https://github.com/dend/awesome-product-management): A curated list of awesome resources for product/program managers to learn and grow.
+- [ProductHired/open-product-management](https://github.com/ProductHired/open-product-management)
+- [yuhenobi/awesome-product-manager](https://github.com/yuhenobi/awesome-product-manager)
+- [dend/awesome-product-management](https://github.com/dend/awesome-product-management)
+
+### Important Tools
 - [http://claude.ai](http://claude.ai)
 - [https://www.perplexity.ai/](https://www.perplexity.ai/)
 - [https://miro.com/](https://miro.com/)
