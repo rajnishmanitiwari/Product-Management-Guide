@@ -34,7 +34,7 @@ This Code of Conduct applies both within project spaces and in public spaces whe
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at rajnishmanitiwari.work+github@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at product@nynexa.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good faith may face temporary or permanent repercussions as determined by other members of the project's leadership.
 
@@ -58,6 +58,6 @@ If you are interested in connecting with Rajnish to discuss data science, techno
 
 Feel free to reach out to Rajnish on the following channels:
 
-- Email: [rajnishmanitiwari.work@gmail.com](mailto:rajnishmanitiwari.work+github@gmail.com)
+- Email: [product@nynexa.com](mailto:product@nynexa.com)
 - LinkedIn: [https://www.linkedin.com/in/rajnishmanitiwari/](https://www.linkedin.com/in/rajnishmanitiwari/)
-- Twitter: [https://twitter.com/TheRajnishMani](https://twitter.com/TheRajnishMani)
+- Twitter: [https://twitter.com/RajnishMTiwari](https://x.com/RajnishMTiwari)
